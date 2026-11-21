@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 Usage
 
-python -m bibcheck references.bib --email you@example.org
+python -m bibcheck references.bib --email isabela.silverio31@gmail.com
 
 This writes references.verified.bib and references.report.md next to the input. Giving an e-mail address puts you in the "polite pool" of Crossref and OpenAlex, which is faster and more reliable.
 
