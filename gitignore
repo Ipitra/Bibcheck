@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.verified.bib
+*.report.md
+.venv/
